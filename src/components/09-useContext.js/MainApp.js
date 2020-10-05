@@ -11,4 +11,4 @@ export const MainApp = () => {
             <AppRouter />
         </UserContext.Provider>
     )
-}
+};
